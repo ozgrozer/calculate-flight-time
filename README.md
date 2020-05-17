@@ -1,5 +1,7 @@
 # [Calculate Flight Time](https://github.com/ozgrozer/calculate-flight-time)
 
+[![Join the chat at https://gitter.im/ozgrozer/calculateFlightTime](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ozgrozer/calculateFlightTime?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 It calculates real flight time between two different timezones.
 
 ## Usage
